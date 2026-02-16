@@ -72,6 +72,7 @@ module Multiple_bits_Adder_tb;
         Data_1_tb = 1;
         Data_2_tb = 1;
         Carry_in_tb = 0;
+        #10
         if ({Carry_out_tb, Sum_tb} != 2) begin
             $fatal(1, "1 + 1 != 2 (expected = 2)");
         end

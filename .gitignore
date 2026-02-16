@@ -4,6 +4,5 @@
 *.wlf
 
 # EXECUTION FILE ELIMINATION
-OUTPUT_FILE
 *.out
 *.exe

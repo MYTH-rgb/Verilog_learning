@@ -12,7 +12,7 @@ VIEWER = gtkwave.exe
 #Used Files
 DESIGN_FILE = Multiple_bits_Adder.v
 TESTBENCH_FILE = Multiple_bits_Adder_tb.v
-OUTPUT_FILE = Multiple_bits_Adder_out
+OUTPUT_FILE = Multiple_bits_Adder_out.out
 WAVE_FILE = Multiple_bits_Adder_wave.vcd
 
 #Rules
